@@ -2,6 +2,7 @@
 
 (avril 2021)
 Création de l'API pour le projet Okanban avec Node js (interface simplifiée d'un tablean kanban).
+Le front est ici : https://github.com/rusticaille/front-okanban
 
   ## Paquets utilisés
 
