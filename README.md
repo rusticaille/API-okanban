@@ -1,9 +1,9 @@
 # API-okanban
 
 (avril 2021)
-Création de l'API pour le projet Okanban avec Nodejs (interface simplifiée d'un tablean kanban).
+Création de l'API pour le projet Okanban avec Node js (interface simplifiée d'un tablean kanban).
 
-##Paquets utilisés
+  ## Paquets utilisés
 
   - express
   - pg
@@ -14,7 +14,7 @@ Création de l'API pour le projet Okanban avec Nodejs (interface simplifiée d'u
 
   - Utilisation d'insomnia pour tester les requêtes.
 
-## Etapes
+  ## Etapes
 
   - Analyse des fonctionnalités demandées et users stories (dossier docs)
   - Création du MCD (dossier docs)
@@ -24,7 +24,7 @@ Création de l'API pour le projet Okanban avec Nodejs (interface simplifiée d'u
   - Elaboration des différentes routes en GET, POST, PATCH et DELETE
   - Branchement de ces routes dans les différents controllers et tests des requêtes dans insomnia
 
-## Différentes requêtes
+  ## Différentes requêtes
 
   - Récupérer, ajouter, modifier, supprimer les listes, cartes et labels
   - Associer et désassocier une carte et une liste
